@@ -80,9 +80,7 @@ width:50px;
 height: 25px;
 border:1px solid rgb(65, 91, 123);
 border-radius: 5px;
-transition: 1s;
- 
-    }
+transition: 1s; }
 
      .pbtn:hover{
        background-color:rgba( 30, 30, 30, .4)
@@ -91,8 +89,7 @@ transition: 1s;
        height: 20px; border:1px skyblue solid; cursor: pointer;
         transition:2s;
        box-shadow: 0 0 15px skyblue,inset 0 0 5px skyblue,;
-       transition:0.1s;
-       } 
+       transition:0.1s;} 
 
 
     h1, h2, h3 .pbtn{
@@ -127,10 +124,7 @@ display:flex;
 justify-content: center;
 align-items: center;
 min-height: 20vh;
-background-color:#35353;
-
-
-}
+background-color:#35353;}
 
  .box{
    position:absolute;
@@ -141,11 +135,7 @@ background-color:#35353;
   background: rgba(0,0,0, 0.4);
   overflow: hidden;
   border-radius: 10px;
-   box-shadow: 0 0 15px rgb(196, 230, 244);
-
-  
-
-  }
+   box-shadow: 0 0 15px rgb(196, 230, 244);}
   
 
   .box::before{
